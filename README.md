@@ -1,4 +1,4 @@
-##### Software Engineer with a full-stack development background, currently thinkering with Blockchain technologies.
+Software Engineer with a full-stack development background, currently thinkering with Blockchain technologies.
 
 <br>
 <a href="https://www.upwork.com/freelancers/~01fae5a8a9dc2b10b4" target="_blank">
